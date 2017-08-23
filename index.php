@@ -2,5 +2,5 @@
     echo 'abc';
     phpinfo();
     echo '<br />';
-    hhha;
+    echo 'hhha';
 
